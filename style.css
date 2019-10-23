@@ -1,0 +1,16 @@
+
+
+.title-section {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 50px;
+}
+
+.main-section p {
+  font-family: 'Roboto', monospace;
+  font-size: 12px;
+}
+
+.main-section h3 {
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 22px;
+}
